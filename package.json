@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@aws-amplify/ui-react": "^6.1.13",
+    "@aws-sdk/client-ses": "^3.623.0",
     "@types/aws-lambda": "^8.10.142",
     "@types/nodemailer": "^6.4.15",
     "aws-amplify": "^6.4.0",
