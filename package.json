@@ -12,7 +12,9 @@
   "dependencies": {
     "@aws-amplify/ui-react": "^6.1.13",
     "@types/aws-lambda": "^8.10.142",
+    "@types/nodemailer": "^6.4.15",
     "aws-amplify": "^6.4.0",
+    "nodemailer": "^6.9.14",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
