@@ -12,14 +12,14 @@ const emailConfig = {
     service: 'gmail',
     auth: {
       user: 'saran@tivonaglobal.com', // Your Gmail address
-      pass: '#tocsFin@5148', // Your Gmail password or App Password if 2FA is enabled
+      pass: '', // Your Gmail password or App Password if 2FA is enabled
     },
   };
   
   // Email details
   const mailOptions = {
-    from: 'sarantocs@gmail.com', // Sender address
-    to: 'recipient-email@example.com', // List of recipients
+    from: 'saran@tivonaglobal.com', // Sender address
+    to: 'sarantocs@gmail.com', // List of recipients
     subject: 'Test Email', // Subject line
     text: 'Hello, this is a test email sent from a TypeScript script!', // Plain text body
   };
